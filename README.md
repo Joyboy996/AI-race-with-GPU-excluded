@@ -1,2 +1,1 @@
-# AI-race-with-GPU-excluded
-Inforgraphic page for AI race article
+joyboy996.github.io/ai-race-infor-graph
